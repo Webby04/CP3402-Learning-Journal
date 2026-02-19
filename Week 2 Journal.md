@@ -1,7 +1,7 @@
 # Week 2 Journal
 
 ### Learning Activities and Resources
-This wee, I customised a Joomla CMS website template to make my site look different from the default installation, and read the joomla documentation and studied the LinkedIn Learning course after completing the practical to ensure that I learned everything I needed to know about making a website using the Joomla CMS.
+This week, I customised a Joomla CMS website template to make my site look different from the default installation, and read the joomla documentation and studied the LinkedIn Learning course after completing the practical to ensure that I learned everything I needed to know about making a website using the Joomla CMS.
 
 https://www.linkedin.com/learning/introduction-to-web-design-and-development-14628245/web-design-and-development-in-the-code-and-no-code-era?u=2223545  
 https://docs.joomla.org/
