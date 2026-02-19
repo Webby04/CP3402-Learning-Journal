@@ -1,11 +1,11 @@
 # Week 3 Journal
 
 ### Learning Activities and Resources
-This week, I customised a Joomla CMS website template to make my site look different from the default installation, and read the joomla documentation and studied the LinkedIn Learning course after completing the practical to ensure that I learned everything I needed to know about making a website using the Joomla CMS.
+This week, I customised a WordPress CMS website template, conducted group interviews, and studied the LinkedIn Learning course before completing the practical to ensure I understood how to use WordPress effectively.
 
 https://www.linkedin.com/learning/wordpress-workflows-2015/welcome?u=2223545 
 
-http://never-run-flat.local/wp-admin/
+http://never-run-flat.local/wp-admin/ 
 http://never-run-flat.local/
 
 
