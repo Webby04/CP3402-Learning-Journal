@@ -5,8 +5,6 @@ This week, I focused on setting up group collaboration tools for our project, in
 
 https://www.linkedin.com/learning/agile-at-work-driving-productive-agile-meetings/having-daily-stand-up-meetings-2?u=2223545
 
-
-
 ### Estimated Hours
 I spent approximately 2–3 hours on learning activities this week, mainly focusing on understanding how teamwork tools integrate and support collaboration in a group project.
 
