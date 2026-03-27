@@ -1,4 +1,4 @@
-# Week 5 Journal
+# Week 6 Journal
 
 ### Learning Activities and Resources
 This week, I focused on setting up group collaboration tools for our project, including joining the team communication space and connecting with teammates. I joined the shared Slack channel for our group and learned how GitHub integration works by connecting the repository to the channel so commits can be tracked.
