@@ -1,7 +1,7 @@
 # Week 5 Journal
 
 ### Learning Activities and Resources
-This week, I learned how WordPress child themes work by following documentation on creating and structuring a child theme, including setting up the required style.css abd functions.php files and correctly linking the parent theme using the Template field. I also studied the LinkedIn Learning course before completing the practical to ensure I understood how to effectively use child themes.
+This week, I focused on setting up group collaboration tools for our project, including joining the team communication space and connecting with teammates. I joined the shared Slack channel for our group and learned how GitHub integration works by connecting the repository to the channel so commits can be tracked.
 
 https://www.linkedin.com/learning/agile-at-work-driving-productive-agile-meetings/having-daily-stand-up-meetings-2?u=2223545
 
