@@ -1,4 +1,4 @@
-# Week 5 Journal
+# Week 7 Journal
 
 ### Learning Activities and Resources
 This week, I learned how to use PHP to build dynamic web pages by working through examples of core PHP features including echo statements, conditional logic, loops, functions, and file includes. I also studied the LinkedIn Learning course before completing the practical to ensure I understood how to PHP effectively.
